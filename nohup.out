@@ -1,0 +1,76 @@
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+  2024-02-09 21:07:32 ................................................... ~ 0s
+  2024-02-09 21:07:33 /assets/css/styles.css ............................ ~ 0s
+  2024-02-09 21:07:33 /assets/img/logo.png .............................. ~ 0s
+  2024-02-09 21:07:33 ................................................... ~ 0s
+  2024-02-09 21:07:34 /assets/img/wallpaper.jpg ......................... ~ 0s
+  2024-02-09 21:07:34 ................................................... ~ 0s
+Opening in existing browser session.
+[2981:2981:0506/183550.754765:ERROR:policy_logger.cc(156)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
+[2191:2191:0507/144411.784765:ERROR:policy_logger.cc(156)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
+[2539:2559:0507/144412.278735:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144412.590954:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144413.641603:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144413.656808:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144414.089276:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144414.097710:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144414.111187:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144414.123368:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144414.130061:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144420.499047:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144420.526272:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144420.599989:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2539:2559:0507/144420.989424:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[2191:2191:0507/144427.436787:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[2191:2191:0507/144427.437289:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[4241:4241:0507/144440.825981:ERROR:policy_logger.cc(156)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
+[4375:4395:0507/144441.192705:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.240398:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.887100:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.889677:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.889988:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.890055:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.890098:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.890144:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144441.890182:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.117494:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.534773:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.540471:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.550827:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.566049:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.572279:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.576723:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.587770:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.598246:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.618818:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.917140:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144442.929684:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.052954:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.150479:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.172041:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.190020:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.203676:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.212149:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.648230:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.661588:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.809244:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144443.869218:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.169943:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.191687:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.195997:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.202997:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.206550:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.635815:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.646393:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.650733:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.661678:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144444.669678:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144448.065172:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4375:4395:0507/144452.349563:ERROR:ssl_client_socket_impl.cc(974)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4241:4241:0507/144453.577409:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[4241:4241:0507/144453.577822:ERROR:zygote_communication_linux.cc(290)] Failed to send GetTerminationStatus message to zygote
+[1867:1867:0507/231412.186973:ERROR:policy_logger.cc(156)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
